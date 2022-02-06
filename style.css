@@ -1,0 +1,27 @@
+header {
+  color: white;
+  background-color: rgba(0, 2, 3, 0.178);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+#mypicture.home-pictures {
+  width: 50rem;
+  height: 30rem;
+  margin-left: 230px;
+  margin-top: 59px;
+}
+
+.title {
+  text-align: center;
+  border-bottom: 2px solid;
+}
+
+.list {
+  margin: 10 10 0 10;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  text-align: center;
+}
